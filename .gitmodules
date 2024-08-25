@@ -1,6 +1,3 @@
-[submodule "lctf_2018_bestphp_s_revenge"]
-	path = lctf_2018_bestphp_s_revenge
-	url = https://github.com/CTFTraining/lctf_2018_bestphp_s_revenge.git
 [submodule "sctf_2018_babysyc"]
 	path = sctf_2018_babysyc
 	url = https://github.com/CTFTraining/sctf_2018_babysyc.git
@@ -10,9 +7,6 @@
 [submodule "huwangbei_2018_easy_laravel"]
 	path = huwangbei_2018_easy_laravel
 	url = https://github.com/CTFTraining/huwangbei_2018_easy_laravel.git
-[submodule "pwnhub_2017_open_weekday"]
-	path = pwnhub_2017_open_weekday
-	url = https://github.com/CTFTraining/pwnhub_2017_open_weekday.git
 [submodule "hctf_2017_deserted_place"]
 	path = hctf_2017_deserted_place
 	url = https://github.com/CTFTraining/hctf_2017_deserted_place.git
@@ -34,15 +28,6 @@
 [submodule "rwctf_2018_bookhub"]
 	path = rwctf_2018_bookhub
 	url = https://github.com/CTFTraining/rwctf_2018_bookhub.git
-[submodule "insomniteaser_2019_l33t_hoster"]
-	path = insomniteaser_2019_l33t_hoster
-	url = https://github.com/CTFTraining/insomniteaser_2019_l33t_hoster.git
-[submodule "meepwn_2018_pycalx"]
-	path = meepwn_2018_pycalx
-	url = https://github.com/CTFTraining/meepwn_2018_pycalx.git
-[submodule "insomniteaser_2019_phuck2"]
-	path = insomniteaser_2019_phuck2
-	url = https://github.com/CTFTraining/insomniteaser_2019_phuck2.git
 [submodule "starctf_2019_996game"]
 	path = starctf_2019_996game
 	url = https://github.com/CTFTraining/starctf_2019_996game.git
@@ -64,9 +49,6 @@
 [submodule "qwb_2019_smarthacker"]
 	path = qwb_2019_smarthacker
 	url = https://github.com/CTFTraining/qwb_2019_smarthacker.git
-[submodule "qwb_2019_crypto_copperstudy"]
-	path = qwb_2019_crypto_copperstudy
-	url = https://github.com/CTFTraining/qwb_2019_crypto_copperstudy.git
 [submodule "ciscn_2019_web_northern_china_day2_web1"]
 	path = ciscn_2019_web_northern_china_day2_web1
 	url = https://github.com/CTFTraining/ciscn_2019_web_northern_china_day2_web1.git
