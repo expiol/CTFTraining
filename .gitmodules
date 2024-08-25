@@ -13,9 +13,6 @@
 [submodule "huwangbei_2018_easy_laravel"]
 	path = huwangbei_2018_easy_laravel
 	url = https://github.com/CTFTraining/huwangbei_2018_easy_laravel.git
-[submodule "hctf_2018_warmup"]
-	path = hctf_2018_warmup
-	url = https://github.com/CTFTraining/hctf_2018_warmup.git
 [submodule "pwnhub_2017_open_weekday"]
 	path = pwnhub_2017_open_weekday
 	url = https://github.com/CTFTraining/pwnhub_2017_open_weekday.git
@@ -37,9 +34,6 @@
 [submodule "wdb_2018_comment"]
 	path = wdb_2018_comment
 	url = https://github.com/CTFTraining/wdb_2018_comment.git
-[submodule "hitcon_2016_leaking"]
-	path = hitcon_2016_leaking
-	url = https://github.com/CTFTraining/hitcon_2016_leaking.git
 [submodule "rwctf_2018_bookhub"]
 	path = rwctf_2018_bookhub
 	url = https://github.com/CTFTraining/rwctf_2018_bookhub.git
@@ -79,6 +73,3 @@
 [submodule "ciscn_2019_web_northern_china_day2_web1"]
 	path = ciscn_2019_web_northern_china_day2_web1
 	url = https://github.com/CTFTraining/ciscn_2019_web_northern_china_day2_web1.git
-[submodule "fbctf_2019_products_manager"]
-	path = fbctf_2019_products_manager
-	url = https://github.com/CTFTraining/fbctf_2019_products_manager.git
