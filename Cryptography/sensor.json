@@ -1,0 +1,9 @@
+{
+  "description": "5555555595555A65556AA696AA6666666955
+This is the demodulated but undecoded message (hex) of a pressure sensor wireless data packet
+
+Its ID is known to be 0xFED31F. Please continue to decode the message completely and submit the hex.
+
+Tip 1: Manchester United Note: Submit the obtained flag wrapped in flag{}. ",
+  "flag": "flag{FFFFFED31F645055F9}"
+}

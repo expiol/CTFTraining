@@ -1,9 +1,6 @@
 [submodule "sctf_2018_babysyc"]
 	path = sctf_2018_babysyc
 	url = https://github.com/CTFTraining/sctf_2018_babysyc.git
-[submodule "westerns_2018_shrine"]
-	path = westerns_2018_shrine
-	url = https://github.com/CTFTraining/westerns_2018_shrine.git
 [submodule "huwangbei_2018_easy_laravel"]
 	path = huwangbei_2018_easy_laravel
 	url = https://github.com/CTFTraining/huwangbei_2018_easy_laravel.git
